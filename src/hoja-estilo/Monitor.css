@@ -1,0 +1,15 @@
+.monitor{
+    min-width: 300px;
+    height: 300px;
+    font-size: 160px;
+    padding: 25px;
+    color: white;
+    /* 3 propiedades para centrar texto*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* 3 propiedades para centrar texto*/
+    border: 8px solid white;
+    margin-bottom: 15px;
+}
+
